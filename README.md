@@ -4,7 +4,7 @@ Question : -
 Print the numbers from 1 to 10 in random order to the terminal.
 Please provide a README, that explains detailed how to run the program on MacOS and Linux
 
-solution : -
+Solution : -
 
 1.By default MacOS and Linux distu come with python version 2. So Dont need to install it on the system.
 2. Open a file with vi editor, write my code and save it as .py extention.
